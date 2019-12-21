@@ -1,3 +1,4 @@
+# How to use package -
 In order to use the package take the following steps
 
 1. navigate to the folder report-generator Via CMD
